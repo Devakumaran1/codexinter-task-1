@@ -50,7 +50,7 @@ const ArticleSummarizer = () => {
 
   return (
 
-    <div className="flex flex-col items-center p-4 bg-slate-300 shadow-md rounded-lg max-w-lg mx-auto my-10  ">
+    <div className="flex flex-col items-center p-4 bg-slate-200 shadow-md rounded-lg max-w-lg mx-auto my-10  ">
       <h1 className="text-2xl font-bold text-blue-800 mb-4">Article Summarizer</h1>
       <input
         type="text"
